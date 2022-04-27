@@ -1,0 +1,10 @@
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.AssemblyReference.cache
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.cache
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\maycon.pribeiro\source\repos\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
